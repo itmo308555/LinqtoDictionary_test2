@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Outside.LinqPerformanceExamples": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
